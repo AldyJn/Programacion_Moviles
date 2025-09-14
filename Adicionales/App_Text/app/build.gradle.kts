@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.montoya.ej_7"
+    namespace = "com.montoya.text_app"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.montoya.ej_7"
+        applicationId = "com.montoya.text_app"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -49,13 +49,6 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
-    implementation(libs.androidx.runtime)
-    implementation(libs.androidx.constraintlayout)
-    implementation(libs.androidx.animation)
-    implementation(libs.ui.graphics)
-    implementation(libs.androidx.animation.core.lint)
-    implementation(libs.androidx.foundation)
-    implementation(libs.material3)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
