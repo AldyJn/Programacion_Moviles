@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238131074973",
+    "project_id": "laboratorio-11-pm",
+    "storage_bucket": "laboratorio-11-pm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238131074973:android:2ac264139ad449b79a8174",
+        "android_client_info": {
+          "package_name": "com.montoya.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFKyS_SuMW1bJfEoOpcn3LPWYOPfqqG34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
