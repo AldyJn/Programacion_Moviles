@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331353080620",
+    "project_id": "programacionmobiles",
+    "storage_bucket": "programacionmobiles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331353080620:android:a4d3da29976bfb28b3a289",
+        "android_client_info": {
+          "package_name": "com.tecsup.authfirebaseapp_montoya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDUHRyJHwW0zWWADy5_FjqQ-9AWYC6OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
